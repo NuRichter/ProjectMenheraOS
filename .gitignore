@@ -1,0 +1,4 @@
+out/
+*.iso
+testing/
+mkiso-testing
